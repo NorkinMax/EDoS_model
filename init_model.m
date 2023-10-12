@@ -1,0 +1,11 @@
+lambda = 10;
+attackRate = 0;
+scalingStep = 2;
+scalingLoopDelay = 500;
+maxCores = 35;
+lowerUtilThreshold = 50;
+upperUtilThreshold = 80;
+serviceRate = 1;
+routineRate = 4;
+initialLoopWaitTime = 1000;
+lenOfCoreFIFO = 500;
